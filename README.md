@@ -1,6 +1,6 @@
 # 📝 ATS Resume Checker
 
-An AI-powered ATS (Applicant Tracking System) resume checker web application that evaluates resumes for job readiness using NLP techniques. It calculates a matching score between the resume content and the job description and helps users improve their resumes for better job application success.
+An Basic AI-powered ATS (Applicant Tracking System) resume checker web application that evaluates resumes for job readiness using NLP techniques. It calculates a matching score between the resume content and the job description and helps users improve their resumes for better job application success.
 
 ---
 
